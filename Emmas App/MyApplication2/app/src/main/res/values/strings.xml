@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emmas App</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_gps_speed">Get GPS speed</string>
+    <string name="gps_speed_output">Current GPS speed</string>
+    <string name="location_will_show_here">location will show here</string>
+    <string name="button2_output">You\'ve clicked button 2</string>
+</resources>

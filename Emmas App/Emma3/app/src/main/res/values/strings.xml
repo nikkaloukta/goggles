@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emma3</string>
+    <string name="get_gps_speed">Get GPS speed</string>
+    <string name="button_get_location">Get location</string>
+</resources>
